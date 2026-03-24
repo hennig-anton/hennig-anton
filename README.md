@@ -23,8 +23,8 @@ I enjoy working on projects that help me improve backend design, authentication 
 
 ## Featured Projects
 
-- **TimeHub API**  
-  BFF-style authentication API built with ASP.NET Core, OpenIddict Client, EF Core, and SQL Server.
-
-- **TimeHub (Nuxt)**  
+- [**TimeHub**](https://github.com/diiinkleberg/TimeHub)  
   Full-stack Planio wrapper built with Nuxt, Prisma, and Better Auth.
+
+- [**TimeHub**](https://github.com/diiinkleberg/TimeHubSharp)  
+  BFF-style authentication API built with ASP.NET Core, OpenIddict Client, EF Core, and SQL Server.
