@@ -1,7 +1,3 @@
-# Anton
-
----
-
 ## Projects
 
 ### [Tempus](https://github.com/hennig-anton/Tempus)
